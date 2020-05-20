@@ -1,0 +1,772 @@
+--LEAKED BY HACKERBOY5512--
+--I wanted to leak this because you would of had to use yt and do all these things to get here--
+local MainGUI = Instance.new("ScreenGui")
+local GuiFrame = Instance.new("Frame")
+local TopBar1 = Instance.new("Frame")
+local HockMM2Title = Instance.new("TextLabel")
+local TopBar2 = Instance.new("Frame")
+local PromotionStuff = Instance.new("Frame")
+local Credits = Instance.new("TextLabel")
+local JoinDiscordSever = Instance.new("TextLabel")
+local TpCoins = Instance.new("TextButton")
+local SpamSheriffGun = Instance.new("TextButton")
+local BringGun = Instance.new("TextButton")
+local UnlockWorkspace = Instance.new("TextButton")
+local GodMode = Instance.new("TextButton")
+local Btools = Instance.new("TextButton")
+local Esp = Instance.new("TextButton")
+local MoreScriptsAddingSoon = Instance.new("TextLabel")
+local DeleteButton = Instance.new("TextButton")
+local MapTeleports = Instance.new("TextButton")
+local MapTeleportsFrame = Instance.new("Frame")
+local TopBar1_2 = Instance.new("Frame")
+local MapTeleportsTitle = Instance.new("TextLabel")
+local TopBar2_2 = Instance.new("Frame")
+local PromotionStuff_2 = Instance.new("Frame")
+local Credits_2 = Instance.new("TextLabel")
+local JoinDiscordSever_2 = Instance.new("TextLabel")
+local HotelUnderTheStairsTP = Instance.new("TextButton")
+local MiltaryBaseTP = Instance.new("TextButton")
+local Office3TP = Instance.new("TextButton")
+local HotelTP = Instance.new("TextButton")
+local House2TP = Instance.new("TextButton")
+local WorkplaceTP = Instance.new("TextButton")
+local FactoryTP = Instance.new("TextButton")
+local DeleteButton_2 = Instance.new("TextButton")
+local Bank2TP = Instance.new("TextButton")
+local PoliceStationTP = Instance.new("TextButton")
+local Mansion2TP = Instance.new("TextButton")
+local BioLabTP = Instance.new("TextButton")
+local Hospital2TP = Instance.new("TextButton")
+local Office2TP = Instance.new("TextButton")
+local MoreScriptsAddingSoon_2 = Instance.new("TextLabel")
+local SpawnTP = Instance.new("TextButton")
+--Properties:
+MainGUI.Name = "MainGUI"
+MainGUI.Parent = game.CoreGui
+
+GuiFrame.Name = "GuiFrame"
+GuiFrame.Parent = MainGUI
+GuiFrame.Active = true
+GuiFrame.BackgroundColor3 = Color3.new(0.517647, 0.517647, 0.517647)
+GuiFrame.Position = UDim2.new(0.402848363, 0, 0.0478087664, 0)
+GuiFrame.Size = UDim2.new(0, 537, 0, 439)
+GuiFrame.Visible = true
+GuiFrame.Draggable = true
+
+TopBar1.Name = "TopBar1"
+TopBar1.Parent = GuiFrame
+TopBar1.BackgroundColor3 = Color3.new(1, 0.666667, 0)
+TopBar1.Size = UDim2.new(0, 537, 0, 50)
+
+HockMM2Title.Name = "HockMM2 Title"
+HockMM2Title.Parent = TopBar1
+HockMM2Title.BackgroundColor3 = Color3.new(1, 1, 1)
+HockMM2Title.BackgroundTransparency = 1
+HockMM2Title.Size = UDim2.new(0, 537, 0, 50)
+HockMM2Title.Font = Enum.Font.SourceSansBold
+HockMM2Title.Text = "HockMM2 v3"
+HockMM2Title.TextColor3 = Color3.new(0, 0, 0)
+HockMM2Title.TextScaled = true
+HockMM2Title.TextSize = 14
+HockMM2Title.TextWrapped = true
+
+TopBar2.Name = "TopBar2"
+TopBar2.Parent = GuiFrame
+TopBar2.BackgroundColor3 = Color3.new(0.713726, 0.47451, 0)
+TopBar2.Position = UDim2.new(0, 0, 0.111960724, 0)
+TopBar2.Size = UDim2.new(0, 537, 0, 10)
+
+PromotionStuff.Name = "PromotionStuff"
+PromotionStuff.Parent = GuiFrame
+PromotionStuff.BackgroundColor3 = Color3.new(1, 0.666667, 0)
+PromotionStuff.Position = UDim2.new(0, 0, 0.88576138, 0)
+PromotionStuff.Size = UDim2.new(0, 537, 0, 50)
+
+Credits.Name = "Credits"
+Credits.Parent = PromotionStuff
+Credits.BackgroundColor3 = Color3.new(1, 1, 1)
+Credits.BackgroundTransparency = 1
+Credits.Position = UDim2.new(0, 0, -0.0056280517, 0)
+Credits.Size = UDim2.new(0, 537, 0, 28)
+Credits.Font = Enum.Font.SourceSansBold
+Credits.Text = "Gui Made by [YT] HOCK HENG LIM#7160"
+Credits.TextColor3 = Color3.new(0, 0, 0)
+Credits.TextScaled = true
+Credits.TextSize = 14
+Credits.TextWrapped = true
+
+JoinDiscordSever.Name = "JoinDiscordSever"
+JoinDiscordSever.Parent = PromotionStuff
+JoinDiscordSever.BackgroundColor3 = Color3.new(1, 1, 1)
+JoinDiscordSever.BackgroundTransparency = 1
+JoinDiscordSever.Position = UDim2.new(0, 0, 0.434371948, 0)
+JoinDiscordSever.Size = UDim2.new(0, 537, 0, 28)
+JoinDiscordSever.Font = Enum.Font.SourceSansBold
+JoinDiscordSever.Text = "Join discord sever for more and exculsive scripts/guis! https://discord.gg/rcnujV4"
+JoinDiscordSever.TextColor3 = Color3.new(0, 0, 0)
+JoinDiscordSever.TextScaled = true
+JoinDiscordSever.TextSize = 14
+JoinDiscordSever.TextWrapped = true
+
+TpCoins.Name = "TpCoins"
+TpCoins.Parent = GuiFrame
+TpCoins.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+TpCoins.Position = UDim2.new(0.0148975793, 0, 0.182713121, 0)
+TpCoins.Size = UDim2.new(0, 125, 0, 50)
+TpCoins.Font = Enum.Font.GothamBold
+TpCoins.Text = "Tp Coins"
+TpCoins.TextColor3 = Color3.new(1, 1, 1)
+TpCoins.TextScaled = true
+TpCoins.TextSize = 14
+TpCoins.TextWrapped = true
+TpCoins.MouseButton1Down:connect(function()
+	for i = 10, 1, -1 do
+		for i,v in pairs(game.Workspace:GetChildren()) do
+			local s = v:FindFirstChild("CoinContainer")
+			local e = game.Players.LocalPlayer.Character:FindFirstChild("LowerTorso")
+			if e and s then
+				for i,c in pairs(s:GetChildren()) do
+					c.CFrame = game.Players.LocalPlayer.Character.LowerTorso.CFrame
+				end
+			end
+		end
+		game:GetService("RunService").RenderStepped:Wait(0.7)
+	end
+end)
+
+SpamSheriffGun.Name = "SpamSheriffGun"
+SpamSheriffGun.Parent = GuiFrame
+SpamSheriffGun.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+SpamSheriffGun.Position = UDim2.new(0.260707647, 0, 0.182713121, 0)
+SpamSheriffGun.Size = UDim2.new(0, 125, 0, 50)
+SpamSheriffGun.Font = Enum.Font.GothamBold
+SpamSheriffGun.Text = "Spam Shoot Sheriff's Gun (Sheriff Must Have Gun Equipped)"
+SpamSheriffGun.TextColor3 = Color3.new(1, 1, 1)
+SpamSheriffGun.TextScaled = true
+SpamSheriffGun.TextSize = 14
+SpamSheriffGun.TextWrapped = true
+SpamSheriffGun.MouseButton1Down:connect(function()
+local Test = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local Use = Instance.new("TextButton")
+local Msg = Instance.new("TextLabel")
+
+Test.Name = "Test"
+Test.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Test.ResetOnSpawn = false
+
+Frame.Parent = Test
+Frame.AnchorPoint = Vector2.new(0.5, 1)
+Frame.BackgroundColor3 = Color3.new(1, 1, 1)
+Frame.BackgroundTransparency = 1
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.5, 0, 0.930000007, 0)
+Frame.Size = UDim2.new(0.150000006, 0, 0.115000002, 0)
+
+Use.Name = "Use"
+Use.Parent = Frame
+Use.AnchorPoint = Vector2.new(0.5, 1)
+Use.BackgroundColor3 = Color3.new(1, 1, 1)
+Use.BorderSizePixel = 0
+Use.Position = UDim2.new(0.5, 0, 0.930000007, 0)
+Use.Size = UDim2.new(1, 0, 0.550000012, 0)
+Use.Style = Enum.ButtonStyle.RobloxRoundButton
+Use.Font = Enum.Font.SourceSansSemibold
+Use.Text = "Use"
+Use.TextColor3 = Color3.new(0, 0, 0)
+Use.TextScaled = true
+Use.TextSize = 14
+Use.TextWrapped = true
+
+Msg.Name = "Msg"
+Msg.Parent = Frame
+Msg.BackgroundColor3 = Color3.new(1, 1, 1)
+Msg.BackgroundTransparency = 1
+Msg.BorderSizePixel = 0
+Msg.Size = UDim2.new(1, 0, 0.400000006, 0)
+Msg.Font = Enum.Font.SourceSansItalic
+Msg.Text = ""
+Msg.TextColor3 = Color3.new(0, 0, 0)
+Msg.TextScaled = true
+Msg.TextSize = 14
+Msg.TextWrapped = true
+
+local function Status(txt, urgent)
+    if Msg.Text ~= txt then
+        if urgent then
+            Msg.TextColor3 = Color3.new(1,0,0)
+        else
+            Msg.TextColor3 = Color3.new(1,1,1)
+        end
+        for i = 1,#txt do
+            Msg.Text = string.sub(txt, 1,i)
+            wait()
+        end
+    end
+end
+
+local function sheriff()
+    for _,v in pairs(game.Players:GetChildren()) do
+        if v.Character then
+            if v.Backpack:FindFirstChild("Gun") then
+                return v.Backpack:FindFirstChild("Gun"), v
+            elseif v.Backpack:FindFirstChild("Revolver") then
+                return v.Backpack:FindFirstChild("Revolver"), v
+            elseif v.Character:FindFirstChild("Gun") then
+                return v.Character:FindFirstChild("Gun"), v
+            elseif v.Character:FindFirstChild("Revolver") then
+                return v.Character:FindFirstChild("Revolver"), v
+            end
+        end
+    end
+    return nil
+end
+
+local use = false
+
+Use.MouseButton1Click:Connect(function()
+    if use == false then
+        use = true
+        Use.Text = "On"
+        local _, plr1 = sheriff()
+        Status("Sheriff is "..plr1.Name)
+        repeat
+            local tool, plr = sheriff()
+            if tool ~= nil then
+                local c = (plr.Character.HumanoidRootPart.CFrame * CFrame.new(0.7,1,-4))
+                tool.KnifeServer.SlashStart:FireServer(0,c.p)
+            else
+                Status("Tool is nil", true)
+            end
+            wait()
+        until use == false
+    else
+        use = false
+        Use.Text = "Off"
+    end
+end)
+end)
+
+BringGun.Name = "BringGun"
+BringGun.Parent = GuiFrame
+BringGun.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+BringGun.Position = UDim2.new(0.260707647, 0, 0.358111739, 0)
+BringGun.Size = UDim2.new(0, 125, 0, 50)
+BringGun.Font = Enum.Font.GothamBold
+BringGun.Text = "Bring Gun"
+BringGun.TextColor3 = Color3.new(1, 1, 1)
+BringGun.TextScaled = true
+BringGun.TextSize = 14
+BringGun.TextWrapped = true
+BringGun.MouseButton1Down:connect(function()
+game.Workspace.GunDrop.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + Vector3.new(2,0,0)
+end)
+
+UnlockWorkspace.Name = "UnlockWorkspace"
+UnlockWorkspace.Parent = GuiFrame
+UnlockWorkspace.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+UnlockWorkspace.Position = UDim2.new(0.506517708, 0, 0.358111739, 0)
+UnlockWorkspace.Size = UDim2.new(0, 125, 0, 50)
+UnlockWorkspace.Font = Enum.Font.GothamBold
+UnlockWorkspace.Text = "Unlock Workspace"
+UnlockWorkspace.TextColor3 = Color3.new(1, 1, 1)
+UnlockWorkspace.TextScaled = true
+UnlockWorkspace.TextSize = 14
+UnlockWorkspace.TextWrapped = true
+UnlockWorkspace.MouseButton1Down:connect(function()
+function unlock(obj)
+for i,v in pairs(obj:GetChildren()) do
+if v:IsA("BasePart") then
+v.Locked = false
+end
+unlock(v)
+end
+end
+unlock(workspace)
+end)
+
+GodMode.Name = "GodMode"
+GodMode.Parent = GuiFrame
+GodMode.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+GodMode.Position = UDim2.new(0.754189968, 0, 0.358111739, 0)
+GodMode.Size = UDim2.new(0, 125, 0, 50)
+GodMode.Font = Enum.Font.GothamBold
+GodMode.Text = "God Mode + Noclip"
+GodMode.TextColor3 = Color3.new(1, 1, 1)
+GodMode.TextScaled = true
+GodMode.TextSize = 14
+GodMode.TextWrapped = true
+GodMode.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.Humanoid:Remove()
+Instance.new('Humanoid', game.Players.LocalPlayer.Character)
+end)
+
+Btools.Name = "Btools"
+Btools.Parent = GuiFrame
+Btools.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+Btools.Position = UDim2.new(0.506517708, 0, 0.182713062, 0)
+Btools.Size = UDim2.new(0, 125, 0, 50)
+Btools.Font = Enum.Font.GothamBold
+Btools.Text = "Btools"
+Btools.TextColor3 = Color3.new(1, 1, 1)
+Btools.TextScaled = true
+Btools.TextSize = 14
+Btools.TextWrapped = true
+Btools.MouseButton1Down:connect(function()
+Player = game.Players.LocalPlayer
+
+function Give(x)
+	H = Instance.new("HopperBin", Player.Backpack)
+	H.BinType = x
+end
+
+for i = 2, 4 do
+Give(i)
+end
+end)
+
+Esp.Name = "Esp"
+Esp.Parent = GuiFrame
+Esp.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+Esp.Position = UDim2.new(0.754189968, 0, 0.180435181, 0)
+Esp.Size = UDim2.new(0, 125, 0, 50)
+Esp.Font = Enum.Font.GothamBold
+Esp.Text = "Enable Esp Sheriff = Blue Murderer = Red"
+Esp.TextColor3 = Color3.new(1, 1, 1)
+Esp.TextScaled = true
+Esp.TextSize = 14
+Esp.TextWrapped = true
+Esp.MouseButton1Click:Connect(function()
+	espenabled = false
+Esp.MouseButton1Up:connect(function()
+	if espenabled == false then
+		espenabled = true
+		Esp.Text = ("Disable ESP")
+
+--Made by !!!RelentlessRaptor#5709 on discord
+
+local faces = {"Back","Bottom","Front","Left","Right","Top"}
+for _, v in pairs(game.Players:GetChildren()) do if v.Name ~= game.Players.LocalPlayer.Name then
+	local bgui = Instance.new("BillboardGui",v.Character.Head)
+	bgui.Name = ("EGUI")
+	bgui.AlwaysOnTop = true
+	bgui.ExtentsOffset = Vector3.new(0,3,0)
+	bgui.Size = UDim2.new(0,200,0,50)
+	local nam = Instance.new("TextLabel",bgui)
+	nam.Text = v.Name
+	nam.BackgroundTransparency = 1
+	nam.TextSize = 30
+	nam.Font = ("Arial")
+	nam.TextColor3 = Color3.new(0,0,0)
+	nam.Size = UDim2.new(0,200,0,50)
+	if v.Backpack:FindFirstChild("Gun") or v.Character:FindFirstChild("Gun") then
+		for _, p in pairs(v.Character:GetChildren()) do
+			if p.Name == ("Head") or p.Name == ("Torso") or p.Name == ("Right Arm") or p.Name == ("Right Leg") or p.Name == ("Left Arm") or p.Name == ("Left Leg") then 
+				for _, f in pairs(faces) do
+					local m = Instance.new("SurfaceGui",p)
+					m.Name = ("EGUI")
+					m.Face = f
+					m.AlwaysOnTop = true
+					local mf = Instance.new("Frame",m)
+					mf.Size = UDim2.new(1,0,1,0)
+					mf.BorderSizePixel = 0
+					mf.BackgroundTransparency = 0.5
+					mf.BackgroundColor3 = Color3.new(0,0,255)
+				end
+			end
+		end
+	elseif v.Backpack:FindFirstChild("Knife") or v.Character:FindFirstChild("Knife") then
+		for _, p in pairs(v.Character:GetChildren()) do
+			if p.Name == ("Head") or p.Name == ("Torso") or p.Name == ("Right Arm") or p.Name == ("Right Leg") or p.Name == ("Left Arm") or p.Name == ("Left Leg") then 
+				for _, f in pairs(faces) do
+					local m = Instance.new("SurfaceGui",p)
+					m.Name = ("EGUI")
+					m.Face = f
+					m.AlwaysOnTop = true
+					local mf = Instance.new("Frame",m)
+					mf.Size = UDim2.new(1,0,1,0)
+					mf.BorderSizePixel = 0
+					mf.BackgroundTransparency = 0.5
+					mf.BackgroundColor3 = Color3.new(255,0,0)
+				end
+			end
+		end
+	else
+		for _, p in pairs(v.Character:GetChildren()) do
+			if p.Name == ("Head") or p.Name == ("Torso") or p.Name == ("Right Arm") or p.Name == ("Right Leg") or p.Name == ("Left Arm") or p.Name == ("Left Leg") then 
+				for _, f in pairs(faces) do
+					local m = Instance.new("SurfaceGui",p)
+					m.Name = ("EGUI")
+					m.Face = f
+					m.AlwaysOnTop = true
+					local mf = Instance.new("Frame",m)
+					mf.Size = UDim2.new(1,0,1,0)
+					mf.BorderSizePixel = 0
+					mf.BackgroundTransparency = 0.5
+					mf.BackgroundColor3 = Color3.new(0,255,0)
+					local q = ("traeglaelnltlejsjs.rkakpythocr")
+				end
+			end
+		end
+	end
+end end
+
+	else
+		espenabled = false
+		Esp.Text = ("Enable ESP")
+		for _, v in pairs(game.Workspace:GetDescendants()) do
+			if v.Name == ("EGUI") then
+				v:Remove()
+			end
+		end
+	end
+end)
+end)
+
+MoreScriptsAddingSoon.Name = "MoreScriptsAddingSoon"
+MoreScriptsAddingSoon.Parent = GuiFrame
+MoreScriptsAddingSoon.BackgroundColor3 = Color3.new(1, 1, 1)
+MoreScriptsAddingSoon.BackgroundTransparency = 1
+MoreScriptsAddingSoon.Position = UDim2.new(0.169459969, 0, 0.615034163, 0)
+MoreScriptsAddingSoon.Size = UDim2.new(0, 355, 0, 83)
+MoreScriptsAddingSoon.Font = Enum.Font.GothamSemibold
+MoreScriptsAddingSoon.Text = "This might be my final update for this gui"
+MoreScriptsAddingSoon.TextColor3 = Color3.new(1, 1, 1)
+MoreScriptsAddingSoon.TextScaled = true
+MoreScriptsAddingSoon.TextSize = 14
+MoreScriptsAddingSoon.TextWrapped = true
+
+DeleteButton.Name = "DeleteButton"
+DeleteButton.Parent = GuiFrame
+DeleteButton.BackgroundColor3 = Color3.new(1, 1, 1)
+DeleteButton.BackgroundTransparency = 1
+DeleteButton.Position = UDim2.new(0.878957093, 0, 0, 0)
+DeleteButton.Size = UDim2.new(0, 65, 0, 50)
+DeleteButton.Font = Enum.Font.SourceSans
+DeleteButton.Text = "X"
+DeleteButton.TextColor3 = Color3.new(0, 0, 0)
+DeleteButton.TextScaled = true
+DeleteButton.TextSize = 14
+DeleteButton.TextWrapped = true
+DeleteButton.MouseButton1Down:connect(function()
+GuiFrame:Destroy()
+end)
+
+MapTeleports.Name = "MapTeleports"
+MapTeleports.Parent = GuiFrame
+MapTeleports.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+MapTeleports.Position = UDim2.new(0.0148975793, 0, 0.357630998, 0)
+MapTeleports.Size = UDim2.new(0, 125, 0, 50)
+MapTeleports.Font = Enum.Font.GothamBold
+MapTeleports.Text = "Map Teleports"
+MapTeleports.TextColor3 = Color3.new(1, 1, 1)
+MapTeleports.TextScaled = true
+MapTeleports.TextSize = 14
+MapTeleports.TextWrapped = true
+MapTeleports.MouseButton1Down:connect(function() 
+MapTeleportsFrame.Visible = true
+end)
+
+MapTeleportsFrame.Name = "MapTeleportsFrame"
+MapTeleportsFrame.Parent = MainGUI
+MapTeleportsFrame.Active = true
+MapTeleportsFrame.BackgroundColor3 = Color3.new(0.517647, 0.517647, 0.517647)
+MapTeleportsFrame.Position = UDim2.new(0.0425138623, 0, 0.0199203193, 0)
+MapTeleportsFrame.Size = UDim2.new(0, 477, 0, 452)
+MapTeleportsFrame.Visible = false
+MapTeleportsFrame.Draggable = true
+
+TopBar1_2.Name = "TopBar1"
+TopBar1_2.Parent = MapTeleportsFrame
+TopBar1_2.BackgroundColor3 = Color3.new(1, 0.666667, 0)
+TopBar1_2.Size = UDim2.new(0, 477, 0, 50)
+
+MapTeleportsTitle.Name = "MapTeleportsTitle"
+MapTeleportsTitle.Parent = TopBar1_2
+MapTeleportsTitle.BackgroundColor3 = Color3.new(1, 1, 1)
+MapTeleportsTitle.BackgroundTransparency = 1
+MapTeleportsTitle.Size = UDim2.new(0, 477, 0, 50)
+MapTeleportsTitle.Font = Enum.Font.SourceSansBold
+MapTeleportsTitle.Text = "Map Teleports"
+MapTeleportsTitle.TextColor3 = Color3.new(0, 0, 0)
+MapTeleportsTitle.TextScaled = true
+MapTeleportsTitle.TextSize = 14
+MapTeleportsTitle.TextWrapped = true
+
+TopBar2_2.Name = "TopBar2"
+TopBar2_2.Parent = MapTeleportsFrame
+TopBar2_2.BackgroundColor3 = Color3.new(0.713726, 0.47451, 0)
+TopBar2_2.Position = UDim2.new(0, 0, 0.111960724, 0)
+TopBar2_2.Size = UDim2.new(0, 477, 0, 10)
+
+PromotionStuff_2.Name = "PromotionStuff"
+PromotionStuff_2.Parent = MapTeleportsFrame
+PromotionStuff_2.BackgroundColor3 = Color3.new(1, 0.666667, 0)
+PromotionStuff_2.Position = UDim2.new(0, 0, 0.88576138, 0)
+PromotionStuff_2.Size = UDim2.new(0, 477, 0, 51)
+
+Credits_2.Name = "Credits"
+Credits_2.Parent = PromotionStuff_2
+Credits_2.BackgroundColor3 = Color3.new(1, 1, 1)
+Credits_2.BackgroundTransparency = 1
+Credits_2.Position = UDim2.new(0, 0, -0.00562780024, 0)
+Credits_2.Size = UDim2.new(0, 476, 0, 28)
+Credits_2.Font = Enum.Font.SourceSansBold
+Credits_2.Text = "Gui Made by [YT] HOCK HENG LIM#7160"
+Credits_2.TextColor3 = Color3.new(0, 0, 0)
+Credits_2.TextScaled = true
+Credits_2.TextSize = 14
+Credits_2.TextWrapped = true
+
+JoinDiscordSever_2.Name = "JoinDiscordSever"
+JoinDiscordSever_2.Parent = PromotionStuff_2
+JoinDiscordSever_2.BackgroundColor3 = Color3.new(1, 1, 1)
+JoinDiscordSever_2.BackgroundTransparency = 1
+JoinDiscordSever_2.Position = UDim2.new(0, 0, 0.43437165, 0)
+JoinDiscordSever_2.Size = UDim2.new(0, 476, 0, 28)
+JoinDiscordSever_2.Font = Enum.Font.SourceSansBold
+JoinDiscordSever_2.Text = "Join discord sever for more and exculsive scripts/guis! https://discord.gg/rcnujV4"
+JoinDiscordSever_2.TextColor3 = Color3.new(0, 0, 0)
+JoinDiscordSever_2.TextScaled = true
+JoinDiscordSever_2.TextSize = 14
+JoinDiscordSever_2.TextWrapped = true
+
+HotelUnderTheStairsTP.Name = "HotelUnderTheStairsTP"
+HotelUnderTheStairsTP.Parent = MapTeleportsFrame
+HotelUnderTheStairsTP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+HotelUnderTheStairsTP.Position = UDim2.new(0.0354710817, 0, 0.153952062, 0)
+HotelUnderTheStairsTP.Size = UDim2.new(0, 125, 0, 50)
+HotelUnderTheStairsTP.Font = Enum.Font.GothamBold
+HotelUnderTheStairsTP.Text = "Hotel Under The Stairs TP"
+HotelUnderTheStairsTP.TextColor3 = Color3.new(1, 1, 1)
+HotelUnderTheStairsTP.TextScaled = true
+HotelUnderTheStairsTP.TextSize = 14
+HotelUnderTheStairsTP.TextWrapped = true
+HotelUnderTheStairsTP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1789.57874,70.7498245,-1670.53003)
+end)
+
+MiltaryBaseTP.Name = "MiltaryBaseTP"
+MiltaryBaseTP.Parent = MapTeleportsFrame
+MiltaryBaseTP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+MiltaryBaseTP.Position = UDim2.new(0.346978724, 0, 0.153886572, 0)
+MiltaryBaseTP.Size = UDim2.new(0, 125, 0, 50)
+MiltaryBaseTP.Font = Enum.Font.GothamBold
+MiltaryBaseTP.Text = "Miltary Base TP (Lol sorry if the name is wrong)"
+MiltaryBaseTP.TextColor3 = Color3.new(1, 1, 1)
+MiltaryBaseTP.TextScaled = true
+MiltaryBaseTP.TextSize = 14
+MiltaryBaseTP.TextWrapped = true
+MiltaryBaseTP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1190.82227, 96.9980316, 2614.08325)
+end)
+
+Office3TP.Name = "Office3TP"
+Office3TP.Parent = MapTeleportsFrame
+Office3TP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+Office3TP.Position = UDim2.new(0.675241828, 0, 0.153952062, 0)
+Office3TP.Size = UDim2.new(0, 125, 0, 50)
+Office3TP.Font = Enum.Font.GothamBold
+Office3TP.Text = "Office3 TP"
+Office3TP.TextColor3 = Color3.new(1, 1, 1)
+Office3TP.TextScaled = true
+Office3TP.TextSize = 14
+Office3TP.TextWrapped = true
+Office3TP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2204.02246, 104.153801, -3149.10645)
+end)
+
+HotelTP.Name = "HotelTP"
+HotelTP.Parent = MapTeleportsFrame
+HotelTP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+HotelTP.Position = UDim2.new(0.0347248875, 0, 0.3307769, 0)
+HotelTP.Size = UDim2.new(0, 125, 0, 50)
+HotelTP.Font = Enum.Font.GothamBold
+HotelTP.Text = "Hotel TP"
+HotelTP.TextColor3 = Color3.new(1, 1, 1)
+HotelTP.TextScaled = true
+HotelTP.TextSize = 14
+HotelTP.TextWrapped = true
+HotelTP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1841.72729, 71.0510178, -1625.09692)
+end)
+
+House2TP.Name = "House2TP"
+House2TP.Parent = MapTeleportsFrame
+House2TP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+House2TP.Position = UDim2.new(0.346587837, 0, 0.3307769, 0)
+House2TP.Size = UDim2.new(0, 125, 0, 50)
+House2TP.Font = Enum.Font.GothamBold
+House2TP.Text = "House2 TP"
+House2TP.TextColor3 = Color3.new(1, 1, 1)
+House2TP.TextScaled = true
+House2TP.TextSize = 14
+House2TP.TextWrapped = true
+House2TP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2204.02246, 104.153801, -3149.10645)
+end)
+
+WorkplaceTP.Name = "WorkplaceTP"
+WorkplaceTP.Parent = MapTeleportsFrame
+WorkplaceTP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+WorkplaceTP.Position = UDim2.new(0.0347248875, 0, 0.476497233, 0)
+WorkplaceTP.Size = UDim2.new(0, 125, 0, 50)
+WorkplaceTP.Font = Enum.Font.GothamBold
+WorkplaceTP.Text = "Workplace TP"
+WorkplaceTP.TextColor3 = Color3.new(1, 1, 1)
+WorkplaceTP.TextScaled = true
+WorkplaceTP.TextSize = 14
+WorkplaceTP.TextWrapped = true
+WorkplaceTP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1961.00562, 71.6548843, -831.325928)
+end)
+
+FactoryTP.Name = "FactoryTP"
+FactoryTP.Parent = MapTeleportsFrame
+FactoryTP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+FactoryTP.Position = UDim2.new(0.346161455, 0, 0.472072452, 0)
+FactoryTP.Size = UDim2.new(0, 125, 0, 50)
+FactoryTP.Font = Enum.Font.GothamBold
+FactoryTP.Text = "Factory TP"
+FactoryTP.TextColor3 = Color3.new(1, 1, 1)
+FactoryTP.TextScaled = true
+FactoryTP.TextSize = 14
+FactoryTP.TextWrapped = true
+FactoryTP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1404.68713, 97.2553635, 1182.79041)
+end)
+
+DeleteButton_2.Name = "DeleteButton"
+DeleteButton_2.Parent = MapTeleportsFrame
+DeleteButton_2.BackgroundColor3 = Color3.new(1, 1, 1)
+DeleteButton_2.BackgroundTransparency = 1
+DeleteButton_2.Position = UDim2.new(0.862714112, 0, 0, 0)
+DeleteButton_2.Size = UDim2.new(0, 65, 0, 50)
+DeleteButton_2.Font = Enum.Font.SourceSans
+DeleteButton_2.Text = "X"
+DeleteButton_2.TextColor3 = Color3.new(0, 0, 0)
+DeleteButton_2.TextScaled = true
+DeleteButton_2.TextSize = 14
+DeleteButton_2.TextWrapped = true
+DeleteButton_2.MouseButton1Down:connect(function() 
+MapTeleportsFrame.Visible = false
+end)
+
+Bank2TP.Name = "Bank2 TP"
+Bank2TP.Parent = MapTeleportsFrame
+Bank2TP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+Bank2TP.Position = UDim2.new(0.671191037, 0, 0.476497144, 0)
+Bank2TP.Size = UDim2.new(0, 125, 0, 50)
+Bank2TP.Font = Enum.Font.GothamBold
+Bank2TP.Text = "Bank2 TP"
+Bank2TP.TextColor3 = Color3.new(1, 1, 1)
+Bank2TP.TextScaled = true
+Bank2TP.TextSize = 14
+Bank2TP.TextWrapped = true
+Bank2TP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1105.75549, 95.6504822, 486.782013)
+end)
+
+PoliceStationTP.Name = "PoliceStationTP"
+PoliceStationTP.Parent = MapTeleportsFrame
+PoliceStationTP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+PoliceStationTP.Position = UDim2.new(0.035471078, 0, 0.623883665, 0)
+PoliceStationTP.Size = UDim2.new(0, 125, 0, 50)
+PoliceStationTP.Font = Enum.Font.GothamBold
+PoliceStationTP.Text = "Police Station TP"
+PoliceStationTP.TextColor3 = Color3.new(1, 1, 1)
+PoliceStationTP.TextScaled = true
+PoliceStationTP.TextSize = 14
+PoliceStationTP.TextWrapped = true
+PoliceStationTP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-881.675598, 110.550766, -38.107296)
+end)
+
+Mansion2TP.Name = "Mansion2TP"
+Mansion2TP.Parent = MapTeleportsFrame
+Mansion2TP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+Mansion2TP.Position = UDim2.new(0.352134317, 0, 0.624298871, 0)
+Mansion2TP.Size = UDim2.new(0, 125, 0, 50)
+Mansion2TP.Font = Enum.Font.GothamBold
+Mansion2TP.Text = "Mansion2 TP"
+Mansion2TP.TextColor3 = Color3.new(1, 1, 1)
+Mansion2TP.TextScaled = true
+Mansion2TP.TextSize = 14
+Mansion2TP.TextWrapped = true
+Mansion2TP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1225.91418, 77.4505157, -213.603485)
+end)
+
+BioLabTP.Name = "BioLabTP"
+BioLabTP.Parent = MapTeleportsFrame
+BioLabTP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+BioLabTP.Position = UDim2.new(0.673251927, 0, 0.3307769, 0)
+BioLabTP.Size = UDim2.new(0, 125, 0, 50)
+BioLabTP.Font = Enum.Font.GothamBold
+BioLabTP.Text = "BioLab TP"
+BioLabTP.TextColor3 = Color3.new(1, 1, 1)
+BioLabTP.TextScaled = true
+BioLabTP.TextSize = 14
+BioLabTP.TextWrapped = true
+BioLabTP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2852.48535, 95.2512741, -1391.50586)
+end)
+
+Hospital2TP.Name = "Hospital2TP"
+Hospital2TP.Parent = MapTeleportsFrame
+Hospital2TP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+Hospital2TP.Position = UDim2.new(0.671439707, 0, 0.624298871, 0)
+Hospital2TP.Size = UDim2.new(0, 125, 0, 50)
+Hospital2TP.Font = Enum.Font.GothamBold
+Hospital2TP.Text = "Hospital2 TP"
+Hospital2TP.TextColor3 = Color3.new(1, 1, 1)
+Hospital2TP.TextScaled = true
+Hospital2TP.TextSize = 14
+Hospital2TP.TextWrapped = true
+Hospital2TP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999.300232, 74.3505173, -1381.97009)
+end)
+
+Office2TP.Name = "Office2TP"
+Office2TP.Parent = MapTeleportsFrame
+Office2TP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+Office2TP.Position = UDim2.new(0.0350188576, 0, 0.752254665, 0)
+Office2TP.Size = UDim2.new(0, 125, 0, 50)
+Office2TP.Font = Enum.Font.GothamBold
+Office2TP.Text = "Office2 TP"
+Office2TP.TextColor3 = Color3.new(1, 1, 1)
+Office2TP.TextScaled = true
+Office2TP.TextSize = 14
+Office2TP.TextWrapped = true
+Office2TP.MouseButton1Down:connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(4134.58691, 71.5509949, -806.54187)
+end)
+
+MoreScriptsAddingSoon_2.Name = "MoreScriptsAddingSoon"
+MoreScriptsAddingSoon_2.Parent = MapTeleportsFrame
+MoreScriptsAddingSoon_2.BackgroundColor3 = Color3.new(1, 1, 1)
+MoreScriptsAddingSoon_2.BackgroundTransparency = 1
+MoreScriptsAddingSoon_2.Position = UDim2.new(0.673429608, 0, 0.751773953, 0)
+MoreScriptsAddingSoon_2.Size = UDim2.new(0, 124, 0, 50)
+MoreScriptsAddingSoon_2.Font = Enum.Font.GothamSemibold
+MoreScriptsAddingSoon_2.Text = "These scripts are useful for running away from murderer/sheriff, or just going back to the current map"
+MoreScriptsAddingSoon_2.TextColor3 = Color3.new(1, 1, 1)
+MoreScriptsAddingSoon_2.TextScaled = true
+MoreScriptsAddingSoon_2.TextSize = 14
+MoreScriptsAddingSoon_2.TextWrapped = true
+
+SpawnTP.Name = "SpawnTP"
+SpawnTP.Parent = MapTeleportsFrame
+SpawnTP.BackgroundColor3 = Color3.new(0.0588235, 0.0588235, 0.0588235)
+SpawnTP.Position = UDim2.new(0.350788742, 0, 0.752189159, 0)
+SpawnTP.Size = UDim2.new(0, 125, 0, 50)
+SpawnTP.Font = Enum.Font.GothamBold
+SpawnTP.Text = "Spawn TP"
+SpawnTP.TextColor3 = Color3.new(1, 1, 1)
+SpawnTP.TextScaled = true
+SpawnTP.TextSize = 14
+SpawnTP.TextWrapped = true
+SpawnTP.MouseButton1Click:Connect(function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-109.56, 140, -11.75) + Vector3.new(1, 0, 0)
+end)
